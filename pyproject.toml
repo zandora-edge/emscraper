@@ -1,0 +1,19 @@
+[project]
+name = "emscraper"
+version = "0.1.1"
+authors = [
+  { name="Zandora Space", email="professor@zandora.space" },
+]
+description = "A email scraper package by Zan X Technologies"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/zandora-space/emscraper"
+"Bug Tracker" = "https://github.com/zandora-space/emscraper/issues"
